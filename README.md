@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-
+![Screen Shot 2024-01-01 at 14 09 44](https://github.com/TheTechPrince/post-install-config/assets/128175325/aead3d79-cd67-41ac-a10e-5d38b62ab622)
 
 </p>
 <p>
@@ -37,6 +37,8 @@ In this image, I configured Roles, Departments, and Teams to begin our workflow.
 <br />
 
 <p>
+
+![Screen Shot 2024-01-01 at 14 20 06](https://github.com/TheTechPrince/post-install-config/assets/128175325/f5ede587-557a-4bc8-925b-f7cca8532e4b)
 
 
 
@@ -52,6 +54,7 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 <p>
 
+![Screen Shot 2024-01-01 at 14 38 35](https://github.com/TheTechPrince/post-install-config/assets/128175325/f1e79a0f-8a2e-465c-ad70-4b857dafc96a)
 
   
 </p>
